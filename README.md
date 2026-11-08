@@ -1,5 +1,5 @@
 # Humanoid-RL
-training ou custom humanoid to stand and walk with various algorithms
+training our custom humanoid to stand and walk with various algorithms
 
 ## Lessons
 
