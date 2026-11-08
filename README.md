@@ -1,5 +1,7 @@
 # Humanoid-RL
-training our custom humanoid to stand and walk with various algorithms
+training our custom humanoid to stand and walk with various algorithms. PPO first
+
+[6m_steps.webm](https://gist.github.com/user-attachments/assets/b7c1c253-cb0a-4739-9ebd-7f2505230ba6)
 
 ## Lessons
 
