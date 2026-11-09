@@ -1,7 +1,9 @@
 # Humanoid-RL
 training our custom humanoid to stand and walk with various algorithms. PPO first
 
-[6m_steps.webm](https://gist.github.com/user-attachments/assets/b7c1c253-cb0a-4739-9ebd-7f2505230ba6)
+|   PPO  |   JAX  |
+| :---: | :---: |
+| [6m_steps.webm](https://gist.github.com/user-attachments/assets/b7c1c253-cb0a-4739-9ebd-7f2505230ba6) |[jax_colab](https://gist.github.com/user-attachments/assets/bfb1915e-ff0a-44fd-92b1-bcfe281622d1) |
 
 ## Lessons
 
