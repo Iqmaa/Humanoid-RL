@@ -20,4 +20,10 @@ training our custom humanoid to stand and walk with various algorithms. PPO firs
 - added a penalty for if the robot height goes below 85% 
 - then robot started using its toes at some point for the left leg, and turning towards the left
 - added a penalty for not staying in the x direction to fix that, the toe problem didn't occur again in the next run
-- 
+  
+*- seems the bending stuff came back in the mjx training*
+
+## General Training notes
+
+PPO - about 3 hrs (for 6m steps, didn't complete 15) <br>
+MJX - 1hr, 27min
